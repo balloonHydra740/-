@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用 -->
+    <string name="app_name">心迹</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_today">今天</string>
+    <string name="nav_calendar">日历</string>
+    <string name="nav_diary">日记</string>
+    <string name="nav_stats">统计</string>
+
+    <!-- 无障碍描述 -->
+    <string name="cd_settings">设置</string>
+    <string name="cd_back">返回</string>
+    <string name="cd_add_mood">添加心情</string>
+    <string name="cd_write_diary">写日记</string>
+    <string name="cd_edit_diary">编辑日记</string>
+    <string name="cd_prev_month">上个月</string>
+    <string name="cd_next_month">下个月</string>
+    <string name="cd_remove_image">移除图片</string>
+    <string name="cd_delete_diary">删除日记</string>
+    <string name="cd_delete_mood">删除心情</string>
+    <string name="cd_biometric">生物识别解锁</string>
+    <string name="cd_backspace">退格</string>
+
+    <!-- 心情名称 -->
+    <string name="mood_joy">开心</string>
+    <string name="mood_surprised">惊喜</string>
+    <string name="mood_calm">平静</string>
+    <string name="mood_neutral">一般</string>
+    <string name="mood_tired">疲惫</string>
+    <string name="mood_anxious">焦虑</string>
+    <string name="mood_sad">难过</string>
+    <string name="mood_angry">生气</string>
+
+    <!-- 强度标签 -->
+    <string name="intensity_1">很糟</string>
+    <string name="intensity_2">低落</string>
+    <string name="intensity_3">还行</string>
+    <string name="intensity_4">不错</string>
+    <string name="intensity_5">超棒</string>
+
+    <!-- 今日页 -->
+    <string name="today_greeting_weekday">今天也要好好照顾自己</string>
+    <string name="today_greeting_weekend">周末愉快，记得放松一下</string>
+    <string name="today_diary_section">今日日记</string>
+    <string name="action_write_one">写一篇</string>
+    <string name="empty_diary_title">今天还没有写日记</string>
+    <string name="empty_diary_subtitle">记录此刻的心情，留住今天的自己</string>
+    <string name="action_start_writing">开始写日记</string>
+    <string name="untitled">无标题</string>
+    <string name="action_view_all">查看全部</string>
+    <string name="recent_moods">最近心情</string>
+    <string name="action_calendar">日历</string>
+    <string name="ask_mood_today">今天心情怎么样？</string>
+    <string name="feeling_intensity">感受强度</string>
+    <string name="note_hint">简单记录一下（可选）</string>
+    <string name="save_mood_today">保存今天的心情</string>
+    <string name="today_mood_label">今天的心情</string>
+    <string name="action_edit">修改</string>
+    <string name="action_delete">删除</string>
+
+    <!-- 日历页 -->
+    <string name="back_to_today">回到今天</string>
+    <string name="section_mood">心情</string>
+    <string name="no_mood_that_day">这一天还没记录心情</string>
+    <string name="record_mood_this_day">记录这一天的心情</string>
+    <string name="section_diary">日记</string>
+    <string name="action_write_diary">写日记</string>
+    <string name="no_diary_that_day">这一天没有日记</string>
+    <string name="no_diary_that_day_hint">点击右上角「写日记」开始记录</string>
+
+    <!-- 日记页 -->
+    <string name="diary_title">日记</string>
+    <string name="diary_empty_title">还没有日记</string>
+    <string name="diary_empty_hint">点击右下角的 + 写第一篇日记吧</string>
+    <string name="drafts_count">草稿箱（%1$d）</string>
+    <string name="draft_badge">草稿</string>
+    <string name="draft_date_label">草稿 · %1$s</string>
+    <string name="search_hint">搜索日记</string>
+    <string name="search_empty">没有找到匹配的日记</string>
+    <string name="search_result_count">找到 %1$d 篇日记</string>
+
+    <!-- 日记编辑 -->
+    <string name="edit_new_title">写日记</string>
+    <string name="edit_draft_title">编辑草稿</string>
+    <string name="edit_entry_title">编辑日记</string>
+    <string name="mood_optional">当时的心情（可选）</string>
+    <string name="title_hint">标题</string>
+    <string name="content_hint">写下此刻的想法……</string>
+    <string name="images_count">图片（%1$d）</string>
+    <string name="importing">导入中…</string>
+    <string name="action_add_image">添加图片</string>
+    <string name="action_add_video">添加视频</string>
+    <string name="videos_count">视频（%1$d）</string>
+    <string name="cd_remove_video">移除视频</string>
+    <string name="action_save_draft">存草稿</string>
+    <string name="action_save">保存</string>
+
+    <!-- 统计页 -->
+    <string name="stats_title">统计</string>
+    <string name="streak_title">🔥 连续记录</string>
+    <string name="unit_days">天</string>
+    <string name="streak_hint_zero">从今天开始记录吧</string>
+    <string name="streak_hint_encourage">每天都来打个卡吧</string>
+    <string name="stat_month_count">本月记录</string>
+    <string name="stat_total_count">累计记录</string>
+    <string name="mood_distribution">心情分布</string>
+    <string name="dist_empty">还没有心情记录，快去打卡吧～</string>
+    <string name="avg_intensity_title">平均心情强度</string>
+    <string name="avg_intensity_value">%1$.1f / 5</string>
+    <string name="week_review">本周回顾</string>
+
+    <!-- 设置页 -->
+    <string name="settings_title">设置</string>
+    <string name="theme_color">主题色</string>
+    <string name="section_background">背景</string>
+    <string name="font_size">字体大小</string>
+    <string name="section_appearance">外观与动效</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="dark_follow_system">跟随系统</string>
+    <string name="dark_light">浅色</string>
+    <string name="dark_dark">深色</string>
+    <string name="reduce_motion">减少动画</string>
+    <string name="reduce_motion_desc">关闭页面内的装饰性动画</string>
+    <string name="week_start_day">每周起始日</string>
+    <string name="monday">周一</string>
+    <string name="sunday">周日</string>
+    <string name="language">语言</string>
+    <string name="lang_follow_system">跟随系统</string>
+    <string name="custom_moods">自定义心情</string>
+    <string name="action_add">添加</string>
+    <string name="custom_moods_empty">还没有自定义心情，点右上角「添加」创建一个吧～</string>
+    <string name="section_data">数据</string>
+    <string name="export_json">导出数据（JSON）</string>
+    <string name="export_done">✅ 已导出到所选位置</string>
+    <string name="export_failed">❌ 导出失败，请重试</string>
+    <string name="section_about">关于</string>
+    <string name="version_format">版本 v%1$s</string>
+    <string name="author_name">作者：荣荣</string>
+    <string name="about_tagline">愿每一天的心情都被温柔记录</string>
+    <string name="font_s">小</string>
+    <string name="font_m">标准</string>
+    <string name="font_l">大</string>
+    <string name="font_xl">特大</string>
+
+    <!-- 主题与背景预设 -->
+    <string name="theme_violet">紫罗兰</string>
+    <string name="theme_blue">海蓝</string>
+    <string name="theme_mint">薄荷</string>
+    <string name="theme_orange">暖橙</string>
+    <string name="theme_rose">玫瑰</string>
+    <string name="theme_amber">琥珀</string>
+    <string name="bg_plain">纯净</string>
+    <string name="bg_sunrise">晨曦</string>
+    <string name="bg_ocean">海洋</string>
+    <string name="bg_mint">薄荷</string>
+    <string name="bg_dusk">暮紫</string>
+
+    <!-- 主题册 -->
+    <string name="section_theme_booklet">主题册</string>
+    <string name="theme_booklet_desc">调配任意颜色，保存成主题随时切换</string>
+    <string name="custom_color">自定义颜色</string>
+    <string name="slider_hue">色相</string>
+    <string name="slider_saturation">饱和度</string>
+    <string name="slider_lightness">明度</string>
+    <string name="action_save_theme">保存主题</string>
+    <string name="theme_name_hint">主题名称</string>
+    <string name="action_rename">重命名</string>
+    <string name="theme_in_use">使用中</string>
+    <string name="theme_use">使用</string>
+    <string name="theme_saved_toast">已保存到主题册</string>
+    <string name="theme_name_required">先给主题起个名字吧</string>
+
+    <!-- 欢迎页 -->
+    <string name="welcome_app_title">心迹 MoodNotes</string>
+    <string name="welcome_tagline">记录每一天的心情与故事</string>
+    <string name="welcome_intro_title">欢迎来到心迹 💜</string>
+    <string name="welcome_intro_subtitle">一个温柔的心情与日记小本本</string>
+    <string name="welcome_btn_next">下一步</string>
+    <string name="welcome_btn_back">返回</string>
+    <string name="welcome_btn_skip">跳过</string>
+    <string name="welcome_btn_start">开始使用</string>
+    <string name="step_welcome">欢迎</string>
+    <string name="step_language">语言</string>
+    <string name="step_look">外观</string>
+    <string name="step_license">许可</string>
+    <string name="step_language_title">选择语言</string>
+    <string name="step_language_hint">之后可以随时在设置中更改</string>
+    <string name="step_look_title">个性化外观</string>
+    <string name="step_look_hint">选择主题色与深色模式，立即生效</string>
+    <string name="step_license_title">许可协议</string>
+    <string name="license_agree_hint">我已阅读并同意以上许可协议</string>
+    <string name="license_btn_agree">同意并开始使用</string>
+    <string name="license_btn_exit">不同意并退出</string>
+    <string name="intro_card1_title">一键打卡心情</string>
+    <string name="intro_card1_desc">每天记录心情与强度，写下此刻感受</string>
+    <string name="intro_card2_title">心情日历</string>
+    <string name="intro_card2_desc">月历总览每一天的心情，支持补记</string>
+    <string name="intro_card3_title">图文日记</string>
+    <string name="intro_card3_desc">写下故事配上照片，草稿随时保存</string>
+    <string name="intro_card4_title">心情统计</string>
+    <string name="intro_card4_desc">连续打卡、心情分布一目了然</string>
+
+    <!-- 隐私锁 -->
+    <string name="lock_section">隐私锁</string>
+    <string name="lock_desc">离开 App 后再次进入需要解锁</string>
+    <string name="lock_setup_title">开启隐私锁</string>
+    <string name="lock_setup_pin_hint">设置 4 位 PIN</string>
+    <string name="lock_setup_reenter">再次输入确认</string>
+    <string name="pin_mismatch">两次输入不一致</string>
+    <string name="lock_setup_questions">设置 3 个保密问题（答对任意 2 个即可找回 PIN）</string>
+    <string name="lock_question_n">问题 %1$d</string>
+    <string name="lock_q_custom">自定义问题</string>
+    <string name="lock_answer_hint">答案</string>
+    <string name="lock_biometric_enable">同时启用生物识别解锁</string>
+    <string name="lock_biometric_unavailable">当前设备不支持生物识别</string>
+    <string name="lock_change_pin">修改 PIN</string>
+    <string name="action_disable_lock">关闭隐私锁</string>
+    <string name="lock_enabled_status">已开启（点按管理）</string>
+    <string name="lock_reset_questions">重新设置保密问题</string>
+    <string name="lock_disable_confirm">关闭后进入 App 将无需验证，确定关闭吗？</string>
+    <string name="lock_title">心迹已锁定</string>
+    <string name="lock_subtitle">输入 PIN 解锁</string>
+    <string name="pin_wrong">PIN 错误，再试一次</string>
+    <string name="action_unlock">解锁</string>
+    <string name="action_use_biometric">使用生物识别解锁</string>
+    <string name="biometric_prompt_title">验证身份</string>
+    <string name="biometric_prompt_subtitle">解锁心迹</string>
+    <string name="forgot_pin">忘记 PIN？</string>
+    <string name="security_title">回答保密问题</string>
+    <string name="security_hint">答对任意 2 题即可重置 PIN</string>
+    <string name="security_wrong">答案不正确</string>
+    <string name="security_passed">验证通过，请设置新 PIN</string>
+    <string name="new_pin_hint">新 PIN（4 位）</string>
+    <string name="confirm_pin_hint">再输入一次新 PIN</string>
+    <string name="action_reset_pin">重置并解锁</string>
+    <string name="cooldown_msg">尝试次数过多，请等待 %1$d 秒</string>
+    <string name="pin_saved_wrong_state">出现异常，请重新开始</string>
+
+    <!-- 保密问题预设 -->
+    <string name="sq_birth_city">您的出生城市是？</string>
+    <string name="sq_primary_school">您的小学叫什么名字？</string>
+    <string name="sq_mother_name">您母亲的名字是？</string>
+    <string name="sq_first_pet">您的第一只宠物叫什么？</string>
+    <string name="sq_best_friend">您最好的朋友叫什么？</string>
+    <string name="sq_first_movie">您看的第一部电影是？</string>
+
+    <!-- 每日提醒 -->
+    <string name="section_reminder">每日提醒</string>
+    <string name="reminder_desc">每天 %1$s 提醒你记录心情</string>
+    <string name="reminder_time_title">选择提醒时间</string>
+    <string name="notif_channel_name">每日提醒</string>
+    <string name="notif_channel_desc">每天定时提醒你记录心情</string>
+    <string name="notif_title">该记录今天的心情啦</string>
+    <string name="notif_text">花一分钟，记下此刻的心情 ✨</string>
+    <string name="reminder_permission_denied">未授予通知权限，请在系统设置中开启</string>
+
+    <!-- 心情选择 -->
+    <string name="add_custom_mood_title">添加自定义心情</string>
+    <string name="mood_name_hint">心情名称</string>
+    <string name="use_emoji">使用表情</string>
+    <string name="use_image">使用图片</string>
+    <string name="pick_from_gallery">从相册选择</string>
+    <string name="palette_label">主题色</string>
+    <string name="custom_mood_label">自定义</string>
+
+    <!-- 通用 -->
+    <string name="no_video_app">未找到可播放该视频的应用</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_confirm">确认</string>
+    <string name="action_done">完成</string>
+    <string name="confirm_delete_title">确认删除？</string>
+    <string name="license_view">查看许可协议</string>
+    <string name="replay_welcome">重新查看欢迎页</string>
+    <string name="license_title_in_app">非商业署名许可证（NCAL）v1.0</string>
+</resources>
